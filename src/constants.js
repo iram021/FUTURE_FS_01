@@ -29,21 +29,21 @@ export const PROJECTS = [
   { 
     title: "Task 2: E-Commerce Platform", 
     desc: "A fully functional online store with dynamic product catalog and cart system, developed as the second task for Future Intern.", 
-    link: "https://future-fs-02-e0uomy8xu-iram-banos-projects.vercel.app", 
+    link: "https://future-fs-02-pied.vercel.app/", 
     image: "/ecommerce.png",
     tech: "React, Vite"
   },
   { 
     title: "BMI Calculator", 
     desc: "A real-time health-tech tool built with JavaScript to calculate Body Mass Index and provide instant health feedback.", 
-    link: "https://bmi-calculator-7ntmvv66l-iram-banos-projects.vercel.app", 
+    link: "https://bmi-calculator-eosin-eight-71.vercel.app/", 
     image: "/bmi.png",
     tech: "JS, CSS, HTML"
   },
   { 
     title: "Nike AI Rebrand", 
     desc: "A premium UI/UX rebranding concept for Nike, focusing on AI-driven aesthetics and modern web animations.", 
-    link: "https://nike-ai-rebrand-internship-ewvskrqch-iram-banos-projects.vercel.app", 
+    link: "https://nike-ai-rebrand-internship.vercel.app/", 
     image: "/nike.png",
     tech: "React, Tailwind"
   }

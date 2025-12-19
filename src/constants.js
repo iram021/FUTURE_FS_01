@@ -22,7 +22,7 @@ export const PROJECTS = [
   { 
     title: "Task 1: Professional Portfolio", 
     desc: "A dashboard-style personal portfolio featuring dark/light mode, sticky sidebar, and responsive design to showcase internship tasks.", 
-    link: "https://future-fs-01-iram.vercel.app", 
+    link: "https://iramportfolio08.netlify.app", 
     image: "/portfolio.png",
     tech: "React, Tailwind"
   },
